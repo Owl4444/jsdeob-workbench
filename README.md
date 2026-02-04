@@ -8,7 +8,7 @@ A visual workbench for deobfuscating JavaScript. Build transform chains, step th
 
 ## YouTube Demo
 
-- [https://www.youtube.com/watch?v=7zuqKoJT2BM(https://www.youtube.com/watch?v=7zuqKoJT2BM)
+- [https://www.youtube.com/watch?v=7zuqKoJT2BM](https://www.youtube.com/watch?v=7zuqKoJT2BM)
 - [https://www.youtube.com/watch?v=bOVnPIfjoco](https://www.youtube.com/watch?v=bOVnPIfjoco)
 
 ## What is this?
