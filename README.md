@@ -6,6 +6,11 @@ A visual workbench for deobfuscating JavaScript. Build transform chains, step th
 
 ![img](./img/main-ui2.png)
 
+## YouTube Demo
+
+- [https://www.youtube.com/watch?v=7zuqKoJT2BM(https://www.youtube.com/watch?v=7zuqKoJT2BM)
+- [https://www.youtube.com/watch?v=bOVnPIfjoco](https://www.youtube.com/watch?v=bOVnPIfjoco)
+
 ## What is this?
 
 This application reveals the Abstract Syntax Tree (AST) of JavaScript program. The idea came about when analyzing a obfuscatio.io related malware sample which ended up with me learning more about BabelJS for deobfuscation.
